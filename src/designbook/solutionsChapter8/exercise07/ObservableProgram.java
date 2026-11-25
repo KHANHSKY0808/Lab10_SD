@@ -1,4 +1,4 @@
-package designbook.solutions_Chapter8.exercise07;
+package designbook.solutionsChapter8.exercise07;
 
 import java.util.ArrayList;
 import java.util.Collections;

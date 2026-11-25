@@ -1,7 +1,7 @@
-package designbook.solutions_Chapter8.exercise06;
+package designbook.solutionsChapter8.exercise06;
 
 import designbook.chapter6.Show;
-import designbook.solutions_Chapter8.exercise06.ObservableProgram.Day;
+import designbook.solutionsChapter8.exercise06.ObservableProgram.Day;
 
 /**
  * Observer cụ thể "giả" (dummy) để kiểm tra việc áp dụng mẫu: chỉ in ra

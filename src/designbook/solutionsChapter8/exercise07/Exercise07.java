@@ -1,8 +1,8 @@
-package designbook.solutions_Chapter8.exercise07;
+package designbook.solutionsChapter8.exercise07;
 
 import designbook.chapter6.Concert;
 import designbook.chapter6.Movie;
-import designbook.solutions_Chapter8.exercise07.ObservableProgram.Day;
+import designbook.solutionsChapter8.exercise07.ObservableProgram.Day;
 
 /**
  * Exercise 8.7: Observer cho Program, chiến lược PULL, hai interface observer

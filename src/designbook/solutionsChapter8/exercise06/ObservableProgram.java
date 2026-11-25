@@ -1,4 +1,4 @@
-package designbook.solutions_Chapter8.exercise06;
+package designbook.solutionsChapter8.exercise06;
 
 import java.util.ArrayList;
 import java.util.EnumMap;
