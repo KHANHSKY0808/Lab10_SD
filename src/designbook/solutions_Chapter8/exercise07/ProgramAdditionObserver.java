@@ -1,4 +1,4 @@
-package designbook.solutions8.exercise07;
+package designbook.solutions_Chapter8.exercise07;
 
 import designbook.chapter6.Show;
 

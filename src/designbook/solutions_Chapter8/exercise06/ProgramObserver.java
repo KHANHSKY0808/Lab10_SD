@@ -1,7 +1,7 @@
-package designbook.solutions8.exercise06;
+package designbook.solutions_Chapter8.exercise06;
 
 import designbook.chapter6.Show;
-import designbook.solutions8.exercise06.ObservableProgram.Day;
+import designbook.solutions_Chapter8.exercise06.ObservableProgram.Day;
 
 /**
  * Observer trừu tượng DUY NHẤT của ObservableProgram, chiến lược PUSH:

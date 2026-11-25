@@ -1,9 +1,9 @@
-package designbook.solutions8.exercise07;
+package designbook.solutions_Chapter8.exercise07;
 
 import java.util.Iterator;
 
 import designbook.chapter6.Show;
-import designbook.solutions8.exercise07.ObservableProgram.Day;
+import designbook.solutions_Chapter8.exercise07.ObservableProgram.Day;
 
 /**
  * Addition observer: mỗi khi có show mới, kéo dữ liệu và in lại lịch
